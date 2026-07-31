@@ -52,12 +52,12 @@ export const Contact: React.FC<ContactProps> = ({ selectedService }) => {
               </div>
               <div>
                 <div className="text-xs text-slate-400">Atención Directa WhatsApp</div>
-                <div className="text-base font-bold text-white">+57 (300) 000-0000</div>
+                <div className="text-base font-bold text-white">+57 (320) 408-4584</div>
               </div>
             </a>
 
             <a 
-              href="mailto:contacto@jurytech.com"
+              href="mailto:info.jurytechsolutions.com"
               className="flex items-center space-x-4 p-5 rounded-2xl bg-slate-900 border border-slate-700 hover:border-[#C5A059] transition-all group shadow-lg"
             >
               <div className="p-3 bg-[#C5A059]/20 text-[#C5A059] rounded-xl group-hover:scale-110 transition-transform">
@@ -65,7 +65,7 @@ export const Contact: React.FC<ContactProps> = ({ selectedService }) => {
               </div>
               <div>
                 <div className="text-xs text-slate-400">Correo Electrónico</div>
-                <div className="text-base font-bold text-white">contacto@jurytech.com</div>
+                <div className="text-base font-bold text-white">info.jurytechsolutions.com</div>
               </div>
             </a>
           </div>
