@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --color-jurytech-bg: #0A111E;       /* Azul marino muy oscuro / fondo */
+  --color-jurytech-card: #111C2E;     /* Azul marino para tarjetas */
+  --color-jurytech-gold: #C5A059;     /* Dorado corporativo del logo */
+  --color-jurytech-gold-hover: #D5B069;
+  --color-jurytech-silver: #E0E6ED;   /* Plata metálico */
+  --color-jurytech-accent: #A6B1E1;
+}
+
+body {
+  background-color: var(--color-jurytech-bg);
+  color: var(--color-jurytech-silver);
+  font-family: system-ui, -apple-system, sans-serif;
+}
