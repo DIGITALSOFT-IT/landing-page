@@ -65,7 +65,7 @@ export const Contact: React.FC<ContactProps> = ({ selectedService }) => {
               </div>
               <div>
                 <div className="text-xs text-slate-400">Correo Electrónico</div>
-                <div className="text-base font-bold text-white">info.jurytechsolutions.com</div>
+                <div className="text-base font-bold text-white">info@jurytechsolutions.com</div>
               </div>
             </a>
           </div>
