@@ -41,13 +41,13 @@ export const servicesData: ServiceCategory[] = [
     description: "Protección de activos digitales, auditorías ISO, pruebas de vulnerabilidad y gestión de incidentes.",
     services: [
       { id: 1, title: "Auditoría e Implementación ISO 27001", description: "Adopción de Sistemas de Gestión de Seguridad de la Información (SGSI) alineados a estándares internacionales.", icon: "ShieldCheck", iconImage: "/images/services/icono15.png" },
-      { id: 2, title: "Auditoría e Implementación ISO 27032", description: "Estrategias globales de ciberseguridad para fortalecer la defensa en entornos digitales complejos.", icon: "Shield" },
-      { id: 3, title: "Pruebas de Penetración (Pentesting)", description: "Simulación de ataques controlados sobre aplicaciones e infraestructura para descubrir brechas.", icon: "Bug" },
-      { id: 4, title: "Evaluación de Vulnerabilidades", description: "Identificación, análisis y priorización de riesgos en redes y software corporativo.", icon: "SearchCheck" },
-      { id: 5, title: "Inteligencia OSINT (Open Source Intelligence)", description: "Recopilación y análisis de información en fuentes abiertas para mitigación de riesgos.", icon: "Eye" },
-      { id: 6, title: "Operación SOC y Caza de Amenazas (Threat Hunting)", description: "Monitoreo continuo 24/7 y búsqueda proactiva de actividades maliciosas evadidas.", icon: "Radar" },
-      { id: 7, title: "Gestión y Respuesta a Incidentes (CSIRT / CERT)", description: "Capacidades técnicas de contención, erradicación y recuperación frente a ciberataques.", icon: "Siren" },
-      { id: 8, title: "Continuidad del Negocio (BCP / DRP)", description: "Garantía de operación crítica y planes de recuperación ante contingencias tecnológicas.", icon: "LifeBuoy" },
+      { id: 2, title: "Auditoría e Implementación ISO 27032", description: "Estrategias globales de ciberseguridad para fortalecer la defensa en entornos digitales complejos.", icon: "Shield", iconImage: "/images/services/icono17.png" },
+      { id: 3, title: "Pruebas de Penetración (Pentesting)", description: "Simulación de ataques controlados sobre aplicaciones e infraestructura para descubrir brechas.", icon: "Bug", iconImage: "/images/services/icono19.png"},
+      { id: 4, title: "Evaluación de Vulnerabilidades", description: "Identificación, análisis y priorización de riesgos en redes y software corporativo.", icon: "SearchCheck", iconImage: "/images/services/icono20.png" },
+      { id: 5, title: "Inteligencia OSINT (Open Source Intelligence)", description: "Recopilación y análisis de información en fuentes abiertas para mitigación de riesgos.", icon: "Eye", iconImage: "/images/services/icono22.png" },
+      { id: 6, title: "Operación SOC y Caza de Amenazas (Threat Hunting)", description: "Monitoreo continuo 24/7 y búsqueda proactiva de actividades maliciosas evadidas.", icon: "Radar", iconImage: "/images/services/icono23.png" },
+      { id: 7, title: "Gestión y Respuesta a Incidentes (CSIRT / CERT)", description: "Capacidades técnicas de contención, erradicación y recuperación frente a ciberataques.", icon: "Siren", iconImage: "/images/services/icono24.png" },
+      { id: 8, title: "Continuidad del Negocio (BCP / DRP)", description: "Garantía de operación crítica y planes de recuperación ante contingencias tecnológicas.", icon: "LifeBuoy", iconImage: "/images/services/icono25.png"},
     ]
   },
   {
