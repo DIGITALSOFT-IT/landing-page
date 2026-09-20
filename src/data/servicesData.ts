@@ -56,13 +56,13 @@ export const servicesData: ServiceCategory[] = [
     iconName: "Scale",
     description: "Asesoría especializada, prevención de riesgos y acompañamiento en derecho corporativo y administrativo.",
     services: [
-      { id: 1, title: "Derecho Comercial y Societario", description: "Constitución de sociedades, reformas estatutarias, actas y acuerdos de accionistas.", icon: "Scale" },
-      { id: 2, title: "Derecho Administrativo y Contratación Estatal", description: "Recursos administrativos, conceptos de contratación y observaciones a procesos contractuales.", icon: "Landmark" },
-      { id: 3, title: "Derecho Penal Corporativo", description: "Conceptos jurídicos, análisis de riesgos penales para empresas y elaboración de denuncias/querellas.", icon: "Gavel" },
-      { id: 4, title: "Derecho Laboral y Cumplimiento (Compliance)", description: "Elaboración de contratos, reglamentos internos, manuales disciplinarios y auditorías.", icon: "ClipboardCheck" },
-      { id: 5, title: "Derecho Inmobiliario y Contractual", description: "Estudios de títulos, promesas de compraventa, acuerdos de confidencialidad y contratos.", icon: "Building2" },
-      { id: 6, title: "Mecanismos de Solución de Conflictos", description: "Acompañamiento estratégico en procesos de negociación, conciliación y mediación.", icon: "Handshake" },
-      { id: 7, title: "Derecho de Consumo y Migratorio", description: "Protección al consumidor, gestión documental de visados y cumplimiento normativo.", icon: "IdCard" },
+      { id: 1, title: "Derecho Comercial y Societario", description: "Constitución de sociedades, reformas estatutarias, actas y acuerdos de accionistas.", icon: "Scale", iconImage: "/images/services/icono26.png" },
+      { id: 2, title: "Derecho Administrativo y Contratación Estatal", description: "Recursos administrativos, conceptos de contratación y observaciones a procesos contractuales.", icon: "Landmark", iconImage: "/images/services/icono27.png"  },
+      { id: 3, title: "Derecho Penal Corporativo", description: "Conceptos jurídicos, análisis de riesgos penales para empresas y elaboración de denuncias/querellas.", icon: "Gavel", iconImage: "/images/services/icono28.png" },
+      { id: 4, title: "Derecho Laboral y Cumplimiento (Compliance)", description: "Elaboración de contratos, reglamentos internos, manuales disciplinarios y auditorías.", icon: "ClipboardCheck", iconImage: "/images/services/icono29.png"  },
+      { id: 5, title: "Derecho Inmobiliario y Contractual", description: "Estudios de títulos, promesas de compraventa, acuerdos de confidencialidad y contratos.", icon: "Building2", iconImage: "/images/services/icono30.png" },
+      { id: 6, title: "Mecanismos de Solución de Conflictos", description: "Acompañamiento estratégico en procesos de negociación, conciliación y mediación.", icon: "Handshake", iconImage: "/images/services/icono31.png" },
+      { id: 7, title: "Derecho de Consumo y Migratorio", description: "Protección al consumidor, gestión documental de visados y cumplimiento normativo.", icon: "IdCard", iconImage: "/images/services/icono32.png" },
     ]
   }
 ];
