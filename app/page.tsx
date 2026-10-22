@@ -17,7 +17,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-circuit-mesh text-white selection:bg-[#DAB86F] selection:text-[#010C1E] font-sans">
+    <div className="min-h-screen bg-circuit-mesh text-[#F8FAFC] selection:bg-[#D5A45A] selection:text-[#020B1A] font-sans">
       <Navbar />
       <main>
         <Hero />
