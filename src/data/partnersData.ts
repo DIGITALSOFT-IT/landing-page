@@ -44,4 +44,9 @@ export const partnersData: Partner[] = [
     name: "La Voz V.I.P. Radio Online",
     logo: "/images/partners/logo-voz.png",
   },
+   {
+    id: 8,
+    name: "KAI-BOT-ZENT",
+    logo: "/images/partners/logo-kai-bot-zent.png",
+  },
 ];
