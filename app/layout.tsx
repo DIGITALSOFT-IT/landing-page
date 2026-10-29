@@ -5,6 +5,15 @@ export const metadata: Metadata = {
   title: "Jurytech Solutions S.A.S. | Derecho, Tecnología y Estrategia",
   description:
     "Soluciones integrales que articulan el conocimiento jurídico, tecnológico y estratégico para el fortalecimiento institucional, la ciberseguridad y la gestión inteligente del riesgo.",
+  icons: {
+    icon: [
+      { url: "/images/JURYTECH.png", type: "image/png" },
+    ],
+    shortcut: ["/images/JURYTECH.png"],
+    apple: [
+      { url: "/images/JURYTECH.png", type: "image/png" },
+    ],
+  },
 };
 
 export default function RootLayout({
