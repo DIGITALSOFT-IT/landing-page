@@ -41,7 +41,9 @@ export const metadata: Metadata = {
     description: siteDescription,
     images: [
       {
-        url: "/images/JURYTECH.png",
+        url: "/images/og-image.jpg",
+        width: 1200,
+        height: 630,
         alt: "Jurytech Solutions S.A.S. — Derecho, Tecnología y Estrategia",
       },
     ],
@@ -50,16 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: siteTitle,
     description: siteDescription,
-    images: ["/images/JURYTECH.png"],
-  },
-  icons: {
-    icon: [
-      { url: "/images/JURYTECH.png", type: "image/png" },
-    ],
-    shortcut: ["/images/JURYTECH.png"],
-    apple: [
-      { url: "/images/JURYTECH.png", type: "image/png" },
-    ],
+    images: ["/images/og-image.jpg"],
   },
 };
 
