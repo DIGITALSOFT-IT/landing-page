@@ -40,6 +40,9 @@ export const Footer = () => {
           <a href="#nosotros" className="hover:text-[#F2D69E] transition-colors">
             Nosotros
           </a>
+          <a href="#productos" className="hover:text-[#F2D69E] transition-colors">
+            Productos
+          </a>
           <a href="#soluciones" className="hover:text-[#F2D69E] transition-colors">
             Soluciones
           </a>

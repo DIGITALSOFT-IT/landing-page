@@ -5,6 +5,7 @@ import { Navbar } from '../src/components/Navbar';
 import { Hero } from '../src/components/Hero';
 import { TrustedBy } from '../src/components/TrustedBy';
 import { About } from '../src/components/About';
+import { Products } from '../src/components/Products';
 import { Services } from '../src/components/Services';
 import { Contact } from '../src/components/Contact';
 import { Footer } from '../src/components/Footer';
@@ -23,6 +24,7 @@ export default function Home() {
         <Hero />
         <TrustedBy />
         <About />
+        <Products onSelectService={handleSelectService} />
         <Services onSelectService={handleSelectService} />
         <Contact selectedService={selectedService} />
       </main>
